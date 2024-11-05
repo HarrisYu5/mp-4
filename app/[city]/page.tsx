@@ -17,7 +17,7 @@ const CityName = styled.h1`
 
 const WeatherCardsContainer = styled.div`
     display: flex;
-    flex-wrap: row wrap;
+    flex-wrap: wrap;
     border: gold 5px solid;
 `;
 
